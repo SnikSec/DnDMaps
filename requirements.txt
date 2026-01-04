@@ -1,0 +1,7 @@
+# Python dependencies for DnDMaps downloader
+
+# HTTP requests for downloading maps
+requests>=2.31.0
+
+# Image processing for viewing maps
+Pillow>=10.0.0

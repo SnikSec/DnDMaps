@@ -1,0 +1,101 @@
+{
+  "base_building": [
+    {
+      "name": "FelderHouse",
+      "dd2vtt_file": "maps\\base_building\\FelderHouse.dd2vtt",
+      "has_description": true
+    }
+  ],
+  "beach": [
+    {
+      "name": "simple-beach",
+      "dd2vtt_file": "maps\\beach\\simple-beach.dd2vtt",
+      "has_description": true
+    }
+  ],
+  "encounters": [
+    {
+      "name": "azheim-meeting",
+      "dd2vtt_file": "maps\\encounters\\azheim-meeting.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "desert-path-ambush",
+      "dd2vtt_file": "maps\\encounters\\desert-path-ambush.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "desert",
+      "dd2vtt_file": "maps\\encounters\\desert.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "grassy-path-ambush",
+      "dd2vtt_file": "maps\\encounters\\grassy-path-ambush.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "grassy",
+      "dd2vtt_file": "maps\\encounters\\grassy.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "outpost-with-little-creek",
+      "dd2vtt_file": "maps\\encounters\\outpost-with-little-creek.dd2vtt",
+      "has_description": false
+    }
+  ],
+  "other": [
+    {
+      "name": "demo",
+      "dd2vtt_file": "maps\\other\\demo.dd2vtt",
+      "has_description": false
+    }
+  ],
+  "taverns": [
+    {
+      "name": "road-side-in",
+      "dd2vtt_file": "maps\\taverns\\road-side-in.dd2vtt",
+      "has_description": false
+    }
+  ],
+  "travel": [
+    {
+      "name": "along-the-path-ambush",
+      "dd2vtt_file": "maps\\travel\\along-the-path-ambush.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "curvy-road-with-alter",
+      "dd2vtt_file": "maps\\travel\\curvy-road-with-alter.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "gate-house-on-lava-river-0",
+      "dd2vtt_file": "maps\\travel\\gate-house-on-lava-river-0.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "gate-house-on-river-0",
+      "dd2vtt_file": "maps\\travel\\gate-house-on-river-0.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "gate-house-on-river-1",
+      "dd2vtt_file": "maps\\travel\\gate-house-on-river-1.dd2vtt",
+      "has_description": false
+    },
+    {
+      "name": "goblin-travel-train",
+      "dd2vtt_file": "maps\\travel\\goblin-travel-train.dd2vtt",
+      "has_description": false
+    }
+  ],
+  "tundra": [
+    {
+      "name": "snowy_house_in_void",
+      "dd2vtt_file": "maps\\tundra\\snowy_house_in_void.dd2vtt",
+      "has_description": false
+    }
+  ]
+}
